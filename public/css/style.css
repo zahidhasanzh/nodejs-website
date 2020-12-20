@@ -256,6 +256,13 @@ footer p {
   margin: 0;
   text-align: center;
 }
+.copyright {
+  margin-top: 5rem;
+}
+.copyright a{
+  text-decoration: none;
+  color: #ee71ad;
+}
 
 /* media queries part starts here  */
 
